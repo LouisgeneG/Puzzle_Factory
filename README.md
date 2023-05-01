@@ -1,2 +1,2 @@
-# Puzzle_Factory
-Designing an Interactive Puzzle(This Puzze is not finished yet)
+# Puzzle Factory in JavaScript
+Designing an Interactive Puzzle in JavaScript(This Puzze is not finished yet)
